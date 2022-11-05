@@ -4,4 +4,6 @@ This is code from this [Twitter thread](https://twitter.com/shandytepe/status/15
 
 Dataset Source: https://www.kaggle.com/datasets/uetchy/vtuber-livechat-elements
 
+Deployment version so you can try --> https://hololive-superchat-analysis.herokuapp.com/ 
+
 Tepe
