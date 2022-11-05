@@ -38,4 +38,3 @@ new_df.columns = ["Total SC IDR", "Period"]
 st.write("More detailed dataset (kind off...)")
 
 st.dataframe(new_df, use_container_width=True)
-
